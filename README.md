@@ -27,6 +27,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=what-am-i-doing-here-typescript&theme=dark)](https://github.com/arixpsy/what-am-i-doing-here-typescript)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=prototypes&theme=dark)](https://github.com/arixpsy/prototypes)
+
 🌱 Currently Learning
 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
