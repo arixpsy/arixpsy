@@ -25,8 +25,6 @@
 
 🔭 Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=what-am-i-doing-here-typescript&theme=dark)](https://github.com/arixpsy/what-am-i-doing-here-typescript)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=what-am-i-counting-here&theme=dark)](https://github.com/arixpsy/what-am-i-counting-here)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=prototypes&theme=dark)](https://github.com/arixpsy/prototypes)
