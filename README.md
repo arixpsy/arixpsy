@@ -25,7 +25,7 @@
 
 🔭 Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=what-am-i-counting-here&theme=dark)](https://github.com/arixpsy/what-am-i-counting-here)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=whiscash&theme=dark)](https://github.com/arixpsy/whiscash)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arixpsy&repo=prototypes&theme=dark)](https://github.com/arixpsy/prototypes)
 
